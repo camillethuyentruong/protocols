@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Mycology protocols
 description: All things fungi
+author: Camille Truong
+
+
+# Reading Files
+include:
+- README
