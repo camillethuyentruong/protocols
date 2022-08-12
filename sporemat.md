@@ -13,7 +13,8 @@ Ectomycorrhizal fungi in the Pezizomycetes (Ascomycota) sometimes produce both s
 
 Spore mats appear on bare soil or below thin litter, often at the border of trails, a few days after rain. If it’s too wet or raining they get flushed away, if it's too dry they won't grow. We don’t know yet if fire stimulate them, but many of these fungi are early successional and therefore important for seedling recruitment.
 
-![image](https://user-images.githubusercontent.com/46766469/184294646-f1b282b0-fbb8-4e9d-8ae6-f0c50f92a948.png)
+![CT4322_01-2](https://user-images.githubusercontent.com/46766469/184297625-7508ce04-0212-43b7-abc1-3537b338c8b6.png)
+![CT4413_01](https://user-images.githubusercontent.com/46766469/184297790-ad2f9071-993e-441e-91bf-27c44b241c83.png)
 
 > Fruitbodies sometimes grow in close vicinity, so it is useful to look for truffles around.
 
