@@ -1,2 +1,2 @@
-# Protocols
-Mycology protocols - all things fungi
+# Mycology protocols
+All things fungi
