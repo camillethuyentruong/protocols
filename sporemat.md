@@ -8,11 +8,15 @@ Interested in collecting and identifying spore mats? Please [reach out](https://
 
 Ectomycorrhizal fungi in the Pezizomycetes (Ascomycota) sometimes produce both sexual meiospores (cup or truffles ascocarps) and asexual mitosopores, or conidia, that forms spore mats. The role of these mitotic spores for the life cycle of these fungi is not well understood, but it is believed that they act as spermatia to enhance the likelihood of finding compatible nuclei (outcrossing) in heterothallic species. Failure to colonize roots or germinate mitotic spores in culture seems to indicate that they are not propagative. 
 
+
 ## Where to find spore mats
 
 Spore mats appear on bare soil or below thin litter, often at the border of trails, a few days after rain. If it’s too wet or raining they get flushed away, if it's too dry they won't grow. We don’t know yet if fire stimulate them, but many of these fungi are early successional and therefore important for seedling recruitment.
 
+![image](https://user-images.githubusercontent.com/46766469/184294646-f1b282b0-fbb8-4e9d-8ae6-f0c50f92a948.png)
+
 > Fruitbodies sometimes grow in close vicinity, so it is useful to look for truffles around.
+
 
 ## How to collect spore mats for the herbarium
 
