@@ -3,7 +3,17 @@ title: Mycology protocols
 description: All things fungi
 author: Camille Truong
 
-
-# Reading Files
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 include:
-- README
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
