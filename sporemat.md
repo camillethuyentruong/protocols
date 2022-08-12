@@ -2,7 +2,7 @@
 
 Camille Truong & Rosanne Healy, August 2022
 
-Interested in collecting and identifying spore mats? Please reach out: camille.truong[at]rbg.vic.gov.au
+Interested in collecting and identifying spore mats? Please [reach out](https://camilletruong.wixsite.com/home/contact)
 
 ## What are spore mats
 
