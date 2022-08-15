@@ -11,4 +11,6 @@ If you use them for your research, thank you for citing [my publications](https:
 
 ### Lab
 
+#### [CTAB DNA extraction](CTAB.md)
+
 ### Data analyses
