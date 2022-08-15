@@ -21,9 +21,13 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 > Fruitbodies sometimes grow in close vicinity, so it is useful to look for truffles around.
 
 
-![CT4322_01-2](https://user-images.githubusercontent.com/46766469/184564829-25fe8921-bf15-4f10-8785-923500c532be.png) ![CT4413_01](https://user-images.githubusercontent.com/46766469/184564959-a8ccf4d8-783b-4ed6-b23e-1b2bfbe7bc12.png)
+![CT4322_01-2](https://user-images.githubusercontent.com/46766469/184564829-25fe8921-bf15-4f10-8785-923500c532be.png)
 
 *Rhulandiella spore mat bordering a trail.*
+
+![CT4413_01](https://user-images.githubusercontent.com/46766469/184564959-a8ccf4d8-783b-4ed6-b23e-1b2bfbe7bc12.png)
+
+
 
 
 ## How to collect spore mats for the fungarium
