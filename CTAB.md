@@ -2,11 +2,11 @@
 
 Camille Truong, July 2022.
 
-In our experience, this protocol works better than many expensive kits to extract high quality DNA from a variety of fungal sources (fresh and dried specimens, cultures, mycorrhizal roots) including for genome sequencing. 
+In our experience, this protocol works better than many expensive kits to extract high quality DNA from a variety of fungal sources (fresh and dry specimens, fungarium, cultures, mycorrhizal roots) including for genome sequencing. 
 
 Back to [mycology protocols](README.md)
 
-## 2% CTAB extraction buffer (500 ml)
+#### 2% CTAB extraction buffer (500 ml):
 10 g CTAB solid
 
 288 ml deionized water
@@ -17,7 +17,7 @@ Back to [mycology protocols](README.md)
 
 20 ml EDTA 0.5M
 
-> Sterlize by autoclaving for 20 min at 120ºC
+> Sterilize by autoclaving for 20 min at 120ºC
 
 
 ## Procedure
@@ -25,11 +25,11 @@ Back to [mycology protocols](README.md)
 
 > CTAB keeps well at room temperature for several weeks/months
 
-> Although more DNA is retrived from fresh material, it works for dried material too
+> Using fresh material is ideal but it works for dried material too
 
-- Back to the lab, break down material inside the tube with a sterile pestle and incubate at 65ºC for >30 min; vortex sample every 10 min.
+- Back to the lab, break down material inside the tube with a sterile pestle while incubating at 65ºC for >30 min; vortex sample every 10 min.
 
-> 2 µl β-mercaptoethanol can be added at this step to reduce polyphenol contaminations in genomic DNA
+> Optional: 2 µl β-mercaptoethanol can be added at this step to reduce polyphenol contaminations in genomic DNA
 
 - Add 500 µl *isoamyl-chloroform* [1:24]; vortex and centrifuge at max speed (>13,000 rpm) for 20 min.
 
@@ -44,6 +44,6 @@ Back to [mycology protocols](README.md)
 
 - Pour out ethanol (by hand), being careful to not loose the pellet; completely dry the pellet at 65ºC (>30 min) in a dry heater or vacuum centrifuge.
 
-- Redilute by adding 50-100 µl *TE buffer* (pH 8) or sterile deionized water; incubate at 65ºC for >20 min to degrade potential DNAse residues.
+- Resuspend DNA by adding 50-100 µl *TE buffer* (pH 8) or sterile deionized water; incubate at 65ºC for >20 min to degrade potential DNAse residues.
 
 > Optional: once DNA is resuspended, add 1 µl RNAse (final concentration 20 µg/ml) and incubate for >20 min
