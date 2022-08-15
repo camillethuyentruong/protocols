@@ -4,7 +4,7 @@ Camille Truong & Rosanne Healy, August 2022
 
 Interested in collecting and identifying spore mats? Please [reach out](https://camilletruong.wixsite.com/home/contact).
 
-Back to [mycology protocols](protocols/README.md)
+Back to [mycology protocols](README.md)
 
 
 ## What are spore mats
