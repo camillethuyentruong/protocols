@@ -11,11 +11,11 @@ Back to [mycology protocols](README.md)
 
 Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospores in ascocarps (cup fungi or truffles) and asexual mitosopores (conidia) in spore mats. While the ascocarps are easily identified as species of cup fungi or truffles, spore mats are not generally recognizable as such. They appear as patches of mycelia with powdery spores on soil, fallen leaves, twigs or rocks, a few days after rainfall. Some species are dense and fluffy, while others are thinner, and may follow the veins of dead leaves or twigs. Most begin white, but some species may turn a shade of red, pink, blue or yellow, and the mitotic spores may be one of these colors as well.
 
-*Theleomorph (truffle, above) and anamorph ( yellowish spore mat, below) of Amylascus.*
+*Teleomorph (truffle, above) and anamorph (yellowish spore mat, below) of Amylascus:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184568317-963653a4-9fd8-45ff-8cfa-c828590362ca.jpg" width="400" />
 
-*Theleomorph (truffle, below) and anamorph (whitish spore mat, above) of Rhulandiella.*
+*Teleomorph (truffle, below) and anamorph (whitish spore mat, above) of Rhulandiella:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184568462-fbab3540-6b23-4b3c-b8cb-9c3fbb9c98d2.jpg" width="400" />
 
@@ -66,6 +66,6 @@ To extract DNA from spore mats:
 
 Healy RA, Smith ME, Bonito GM, Pfister DH, Ge ZW, Guevara GG, Williams G, Stafford K, Kumar L, Lee T, et al. (2013) High diversity and widespread occurrence of mitotic spore mats in ectomycorrhizal Pezizales. Molecular Ecology 22: 1717–1732. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12135)
 
-Kraisitudomsook N, Healy RA, Mujic AB, Pfister DH, Nouhra ER, Smith ME (2019) Systematic study of truffles in the genus Ruhlandiella, with the description of two new species from Patagonia. Mycologia, 111: 477–492. [DOI](https://doi.org/10.1080/00275514.2019.1574490
+Kraisitudomsook N, Healy RA, Mujic AB, Pfister DH, Nouhra ER, Smith ME (2019) Systematic study of truffles in the genus Ruhlandiella, with the description of two new species from Patagonia. Mycologia, 111: 477–492. [DOI](https://doi.org/10.1080/00275514.2019.1574490)
 
 Warcup JH (1990) Occurrence of ectomycorrhizal and saprophytic discomycetes after a wild fire in a eucalypt forest. Mycological Research 94: 1065–1069. [DOI](https://doi.org/10.1016/S0953-7562(09)81334-8)
