@@ -1,4 +1,4 @@
-# Collection and ID of mitotic spore mats
+# Finding and collecting mitotic spore mats
 
 Camille Truong & Rosanne Healy, August 2022
 
@@ -6,15 +6,14 @@ Interested in collecting and identifying spore mats? Please [reach out](https://
 
 ## What are spore mats
 
-Ectomycorrhizal fungi in the Pezizomycetes (Ascomycota) sometimes produce both sexual meiospores (cup or truffles ascocarps) and asexual mitosopores, or conidia, that forms spore mats. The role of these mitotic spores for the life cycle of these fungi is not well understood, but it is believed that they act as spermatia to enhance the likelihood of finding compatible nuclei (outcrossing) in heterothallic species. Failure to colonize roots or germinate mitotic spores in culture seems to indicate that they are not propagative. 
+Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospores in ascocarps (cup fungi or truffles) and asexual mitosopores (conidia) in spore mats. While the ascocarps are easily identified as species of cup fungi or truffles, spore mats are not generally recognizable as such. They appear as patches of mycelia with powdery spores on soil, fallen leaves, twigs or rocks, a few days after rainfall. Some species are dense and fluffy, while others are thinner, and may follow the veins of dead leaves or twigs. Most begin white, but some species may turn a shade of red, pink, blue or yellow, and the mitotic spores may be one of these colors as well.
+
+The role of mitotic spores for the life cycle of these fungi is not well understood, but they may act as spermatia to enhance the likelihood of finding compatible nuclei (outcrossing) in heterothallic species. Failure to colonize roots or germinate mitotic spores in culture so far likely indicate that they are not propagative. 
 
 
 ## Where to find spore mats
 
-Spore mats appear on bare soil or below thin litter, often at the border of trails, a few days after rain. If it’s too wet or raining they get flushed away, if it's too dry they won't grow. We don’t know yet if fire stimulate them, but many of these fungi are early successional and therefore important for seedling recruitment.
-
-![CT4322_01-2](https://user-images.githubusercontent.com/46766469/184297625-7508ce04-0212-43b7-abc1-3537b338c8b6.png)
-![CT4413_01](https://user-images.githubusercontent.com/46766469/184297790-ad2f9071-993e-441e-91bf-27c44b241c83.png)
+Spore mats can be spotted on bare soil or below thin litter, often at the border of trails, a few days after rain. If it’s too wet or raining they get flushed away; if it's too dry they won't grow. Some species, such as *Plicaria endocarpoides* and *Geopyxis carbonaria* are stimulated by fire.
 
 > Fruitbodies sometimes grow in close vicinity, so it is useful to look for truffles around.
 
@@ -27,7 +26,8 @@ Spore mats appear on bare soil or below thin litter, often at the border of trai
    
  - Record the date, location, canopy plants (putative mycorrhizal hosts) and basic habitat information.
    
- - While fresh, glue the patch on an archival paper card using diluted school glue and dry it overnight with a dehydrator, or in a closed plastic container with silica gel beads at the bottom.
+ - While fresh, glue the patch on an archival paper card using diluted school glue and dry it overnight with a dehydrator set on low (below 50°) or in a closed plastic container with silica gel beads at the bottom.
+
    > If stored in a Petri dish, the collection can be dried directly by placing the Petri dish in the dehydrator or container with silica
    
  - Store collections in herbarium boxes (or Petri dishes sealed with their lid) horizontally to avoid crashing them.
@@ -36,10 +36,10 @@ Spore mats appear on bare soil or below thin litter, often at the border of trai
 Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are very easy to sequences!
 
 To extract DNA from spore mats:
- - Sterilize a razor blade with flame and/or an alcohol wipe, and carefully scrap the surface of the spore mat.
- - Store the powdery material in an Eppendorf tube with DNA buffer, such as CTAB or Extract&Amp, and store at -20°C until DNA extraction
+ - Sterilize a razor blade with a flame and/or an alcohol wipe, and carefully scrape the surface of the spore mat, avoiding any soil or debris from other organisms.
+ - Store the powdery material in an Eppendorf tube with a DNA buffer (such as CTAB), and store at -20°C until DNA extraction
 
-> It is easier to sample DNA from fresh material, but dried spore mats will work if stored properly (holding together).
+> It is easier to sample DNA from fresh material, but dried spore mats will work if stored properly (holding the soil and mycelium together so that dirt doesn't mix with the hyphae).
  
 
  ## Further reading
