@@ -2,7 +2,10 @@
 
 Camille Truong & Rosanne Healy, August 2022
 
-Interested in collecting and identifying spore mats? Please [reach out](https://camilletruong.wixsite.com/home/contact)
+Interested in collecting and identifying spore mats? Please [reach out](https://camilletruong.wixsite.com/home/contact).
+
+Back to [mycology protocols](protocols/README.md)
+
 
 ## What are spore mats
 
@@ -32,7 +35,8 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
    
  - Store collections in herbarium boxes (or Petri dishes sealed with their lid) horizontally to avoid crashing them.
 
- ## How to store material for DNA sequencing
+
+## How to store material for DNA sequencing
 Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are very easy to sequences!
 
 To extract DNA from spore mats:
@@ -42,7 +46,7 @@ To extract DNA from spore mats:
 > It is easier to sample DNA from fresh material, but dried spore mats will work if stored properly (holding the soil and mycelium together so that dirt doesn't mix with the hyphae).
  
 
- ## Further reading
+## Further reading
 
 Healy RA, Smith ME, Bonito GM, Pfister DH, Ge ZW, Guevara GG, Williams G, Stafford K, Kumar L, Lee T, et al. (2013) High diversity and widespread occurrence of mitotic spore mats in ectomycorrhizal Pezizales. Molecular Ecology 22: 1717–1732.
 https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.12135
