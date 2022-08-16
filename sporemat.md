@@ -9,7 +9,7 @@ Back to [mycology protocols](README.md)
 
 ## What are spore mats
 
-Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospores in ascocarps (cup fungi or truffles) and asexual mitosopores (conidia) in spore mats. While the ascocarps are easily identified as species of cup fungi or truffles, spore mats are not generally recognizable as such. They appear as patches of mycelia with powdery spores on soil, fallen leaves, twigs or rocks, a few days after rainfall. Some species are dense and fluffy, while others are thinner, and may follow the veins of dead leaves or twigs. Most begin white, but some species may turn a shade of red, pink, blue or yellow, and the mitotic spores may be one of these colors as well.
+Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospores in ascocarps (cup fungi or truffles) and asexual mitosopores (conidia) in spore mats. While the ascocarps are easily identified as species of cup fungi or truffles, spore mats are not generally recognizable as such. They appear a few days after rainfall as patches of mycelia with powdery spores on soil, fallen leaves, twigs or rocks. Some species are dense and fluffy, while others are thinner, and may follow the veins of dead leaves or twigs. Most begin white, but some species may turn a shade of red, pink, blue or yellow, and the mitotic spores may be one of these colors as well.
 
 *Teleomorph (truffle, above) and anamorph (yellowish spore mat, below) of Amylascus:*
 
@@ -20,7 +20,8 @@ Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospor
 <img src="https://user-images.githubusercontent.com/46766469/184568462-fbab3540-6b23-4b3c-b8cb-9c3fbb9c98d2.jpg" width="400" />
 
 
-The role of mitotic spores for the life cycle of these fungi is not well understood, but they may act as spermatia to enhance the likelihood of finding compatible nuclei (outcrossing) in heterothallic species. Failure to colonize roots or germinate mitotic spores in culture so far likely indicate that they are not propagative. 
+The role of mitotic spores for the life cycle of these fungi is not well understood, but they may act as spermatia to enhance the likelihood of finding compatible nuclei (outcrossing) in heterothallic species. Failure to colonize roots or germinate in culture indicate that the mitotic spores are likely not serving a propagative role.
+
 
 
 ## Where to find spore mats
@@ -38,7 +39,7 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 
 ## How to collect spore mats for the fungarium
 
- - Carefully remove the patch with a knife, including 1-2 cm deep of soil (helps keep it together) and place it in a small container.
+ - Carefully remove the patch with a knife, including 1-2 cm of the subtending soil (helps keep it together) and place it in a small container.
    
    > Small Petri dishes work great, otherwise any plastic container or aluminium foil will do.
    
@@ -48,22 +49,23 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 
    > If stored in a Petri dish, the collection can be dried directly by placing the Petri dish in the dehydrator or container with silica
    
- - Store collections in herbarium boxes (or Petri dishes sealed with their lid) horizontally to avoid crashing them.
-
+ - Store collections in herbarium boxes (or Petri dishes sealed with their lid) horizontally to avoid crushing them.
+ 
 *Material needed for fungarium storage:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184759199-15ce8a11-7fec-45bd-9e75-39d53ca5073f.jpg" width="300" />
 
-*Specimen glued on cardboard:*
+*Specimen glued on heavy card stock paper:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184757855-cf5c69f3-c296-42d1-84a7-7a8588a07fa7.jpg" width="300" />
 
-*Cover to preserve the specimen from crashing:*
+*Cover to preserve the specimen from being crushed:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184759070-644015ed-ccee-4210-b9f3-482038524cf5.jpg" width="300" />
 
 ## How to sample material for DNA sequencing
-Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are easy to sequence.
+
+Spore mats have few morphological characters and species identification relies mostly on microscopy and DNA. Microscopic characters can help to differentiate families (genera in some cases), but not species. Luckily they are easy to sequence.
 
 To extract DNA from spore mats:
  - Sterilize a razor blade with a flame and/or an alcohol wipe, and carefully scrape the surface of the spore mat, avoiding any soil or debris from other organisms.
