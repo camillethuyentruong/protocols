@@ -1,4 +1,4 @@
-# Finding and collecting mitotic spore mats
+# Collecting and preserving mitotic spore mats
 
 Camille Truong & Rosanne Healy, August 2022
 
