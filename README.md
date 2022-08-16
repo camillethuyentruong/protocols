@@ -18,7 +18,6 @@ If you use them for your research, thank you for citing [my publications](https:
 
 
 
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/CamilleTruong3)
-
 This site and it's original source code are copyright © 2022 by [Camille Truong](https://camilletruong.wixsite.com/home).
+
+<a href="https://twitter.com/CamilleTruong3?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CamilleTruong3</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
