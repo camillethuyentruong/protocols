@@ -52,16 +52,15 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 
 *Material needed for fungarium storage:*
 
-<img src="https://user-images.githubusercontent.com/46766469/184757838-b975e351-e889-4494-9ee7-cab5c701799b.jpg" width="400" />
+<img src="https://user-images.githubusercontent.com/46766469/184759199-15ce8a11-7fec-45bd-9e75-39d53ca5073f.jpg" width="300" />
 
 *Specimen glued on cardboard:*
 
-<img src="(https://user-images.githubusercontent.com/46766469/184757855-cf5c69f3-c296-42d1-84a7-7a8588a07fa7.jpg" width="400" />
+<img src="https://user-images.githubusercontent.com/46766469/184757855-cf5c69f3-c296-42d1-84a7-7a8588a07fa7.jpg" width="300" />
 
 *Cover to preserve the specimen from crashing:*
 
-<img src="(https://user-images.githubusercontent.com/46766469/184757864-ddeffa6b-8030-4c70-973b-c5f97f1a42c0.jpg" width="400" />
-
+<img src="https://user-images.githubusercontent.com/46766469/184759070-644015ed-ccee-4210-b9f3-482038524cf5.jpg" width="300" />
 
 ## How to store material for DNA sequencing
 Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are very easy to sequences!
