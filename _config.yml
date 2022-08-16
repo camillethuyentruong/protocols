@@ -3,6 +3,9 @@ title: Mycology protocols
 description: All things fungi
 author: Camille Truong
 
+social-network-links:
+  twitter: camilletruong3
+
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -17,4 +20,3 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - sporemat.md
