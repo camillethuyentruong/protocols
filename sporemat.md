@@ -15,7 +15,7 @@ Some ectomycorrhizal Pezizomycete fungi (Ascomycota) can produce sexual meiospor
 
 <img src="https://user-images.githubusercontent.com/46766469/184568317-963653a4-9fd8-45ff-8cfa-c828590362ca.jpg" width="400" />
 
-*Teleomorph (truffle, below) and anamorph (whitish spore mat, above) of Rhulandiella:*
+*Teleomorph (truffle, below) and anamorph (whitish spore mat, above) of Ruhlandiella:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184568462-fbab3540-6b23-4b3c-b8cb-9c3fbb9c98d2.jpg" width="400" />
 
@@ -30,7 +30,7 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 > Fruitbodies sometimes grow in close vicinity, so it is useful to look for truffles around.
 
 
-*Rhulandiella spore mat bordering a trail:*
+*Ruhlandiella spore mat at the border of a trail:*
 
 <img src="https://user-images.githubusercontent.com/46766469/184564829-25fe8921-bf15-4f10-8785-923500c532be.png" width="400" />
 <img src="https://user-images.githubusercontent.com/46766469/184564959-a8ccf4d8-783b-4ed6-b23e-1b2bfbe7bc12.png" width="400" />
@@ -49,6 +49,18 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
    > If stored in a Petri dish, the collection can be dried directly by placing the Petri dish in the dehydrator or container with silica
    
  - Store collections in herbarium boxes (or Petri dishes sealed with their lid) horizontally to avoid crashing them.
+
+*Material needed for fungarium storage:*
+
+<img src="https://user-images.githubusercontent.com/46766469/184757838-b975e351-e889-4494-9ee7-cab5c701799b.jpg" width="400" />
+
+*Specimen glued on cardboard:*
+
+<img src="(https://user-images.githubusercontent.com/46766469/184757855-cf5c69f3-c296-42d1-84a7-7a8588a07fa7.jpg" width="400" />
+
+*Cover to preserve the specimen from crashing:*
+
+<img src="(https://user-images.githubusercontent.com/46766469/184757864-ddeffa6b-8030-4c70-973b-c5f97f1a42c0.jpg" width="400" />
 
 
 ## How to store material for DNA sequencing
