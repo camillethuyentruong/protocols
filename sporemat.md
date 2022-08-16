@@ -62,8 +62,8 @@ Spore mats can be spotted on bare soil or below thin litter, often at the border
 
 <img src="https://user-images.githubusercontent.com/46766469/184759070-644015ed-ccee-4210-b9f3-482038524cf5.jpg" width="300" />
 
-## How to store material for DNA sequencing
-Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are very easy to sequences!
+## How to sample material for DNA sequencing
+Spore mats have few morphological characters and species identification relies mostly on DNA. Luckily they are easy to sequence.
 
 To extract DNA from spore mats:
  - Sterilize a razor blade with a flame and/or an alcohol wipe, and carefully scrape the surface of the spore mat, avoiding any soil or debris from other organisms.
