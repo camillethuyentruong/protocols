@@ -7,7 +7,7 @@ If you use them for your research, thank you for citing [my publications](https:
 
 ### Field
 
-#### [Collecting and storing spore mats](sporemat.md)
+#### [Collecting and preserving spore mats](sporemat.md)
 
 ### Lab
 
