@@ -15,3 +15,6 @@ If you use them for your research, thank you for citing [my publications](https:
 #### [Rapid DNA extraction](rapidDNA.md)
 
 ### Data analyses
+
+
+This site and it's original source code are copyright © 2022 by [Camille Truong](https://github.com/camillethuyentruong).
