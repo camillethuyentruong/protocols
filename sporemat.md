@@ -67,7 +67,7 @@ Spore mats have few morphological characters and species identification relies m
 
 To extract DNA from spore mats:
  - Sterilize a razor blade with a flame and/or an alcohol wipe, and carefully scrape the surface of the spore mat, avoiding any soil or debris from other organisms.
- - Store the powdery material in an Eppendorf tube with a DNA buffer (such as CTAB), and store at -20°C until DNA extraction
+ - Put the powdery material in an Eppendorf tube with a DNA buffer (such as CTAB) and store at -20°C until DNA extraction.
 
 > It is easier to sample DNA from fresh material, but dried spore mats will work if stored properly (holding the soil and mycelium together so that dirt doesn't mix with the hyphae).
  
