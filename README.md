@@ -17,4 +17,4 @@ If you use them for your research, thank you for citing [my publications](https:
 ### Data analyses
 
 
-This site and it's original source code are copyright © 2022 by [Camille Truong](https://github.com/camillethuyentruong).
+This site and it's original source code are copyright © 2022 by [Camille Truong](https://camilletruong.wixsite.com/home).
