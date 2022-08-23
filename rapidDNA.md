@@ -29,13 +29,13 @@ Back to [mycology protocols](README.md)
 - Prepare up to 100 µl of ES into PCR tubes.
 - Sample tissue with a sterilized blade or forceps and submerge into ES solution; store at –20ºC before DNA extraction.
 
-> Avoid stuffing too much material into the tube, less is more here
+  > Avoid stuffing too much material into the tube, less is more here
 
-> Be sure not to add any extra water or liquid (if picking root tips, blot dry the forceps)
+  > Be sure not to add any extra water or liquid (if picking root tips, blot dry the forceps)
 
 - On the day of extraction, smash the material inside the tube using sterile forcepcs.
 - Incubate for 10 min at room temperature, then 10 min at –95ºC.
 - Add an equal voulme of DS to the tube so that the ratio ES:DS is 1:1
 - Store at –20ºC
 
-> Samples are now ready for PCR; 1-2 µl DNA per reaction is usually sufficent
+  > Samples are now ready for PCR; 1-2 µl DNA per reaction is usually sufficent
