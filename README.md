@@ -7,7 +7,8 @@ If you use them for your research, thank you for citing [my publications](https:
 
 ### Field
 
-#### [Collecting and preserving spore mats](sporemat.md)
+#### [Mycorrhizal roots](myco_roots.md)
+#### [Spore mats](sporemat.md)
 
 ### Lab
 
