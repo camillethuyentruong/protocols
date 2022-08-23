@@ -32,9 +32,7 @@ This protocol described how to sample plant roots to study their mycorrhizal typ
 
 - Cut fine roots into >20 pieces of ca. 1-2 cm long and check for ectomycorrhizal colonization (under a stereomicroscope if available).
 
-- Rinse >10 pieces with distilled water, choosing the pieces that look more colonized, and store in an Eppendorf tube with a DNA buffer (such as CTAB).
-
-- Store at -20°C until DNA extraction.
+- For DNA, rinse >10 pieces with distilled water, choosing the pieces that look more colonized, and store in an Eppendorf tube with a DNA buffer (such as CTAB); store at -20°C until DNA extraction.
 
   > In DNA buffer, the samples will keep well at room temperature for several days/weeks.
 
