@@ -4,6 +4,8 @@ Camille Truong and Guillermo Bueno, August 2022.
 
 This protocol described how to sample plant roots to study their mycorrhizal type, % colonization and root-associated fungi with DNA sequencing.
 
+Back to [mycology protocols](README.md)
+
 
 ## In the field
 
@@ -26,7 +28,7 @@ This protocol described how to sample plant roots to study their mycorrhizal typ
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/46766469/186280834-32b550f9-b89a-4aad-a13c-2d5c6832d213.png"> <img width="200" alt="image" src="https://user-images.githubusercontent.com/46766469/186280898-f6fe94e9-7f03-43f2-b8f4-be12afaceac9.png">
 
 
-## Back to the lab, field station, camp
+## Back to the lab, field station or camp
 
 - Clean roots with tap water and put them in a Petri dish.
 
