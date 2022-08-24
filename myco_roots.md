@@ -7,7 +7,7 @@ This protocol described how to sample plant roots to study their mycorrhizal typ
 Back to [mycology protocols](README.md)
 
 
-## In the field
+## Field sampling
 
 - Sample 3-5 individuals of the species of interest in each population.
 
@@ -28,7 +28,7 @@ Back to [mycology protocols](README.md)
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/46766469/186280834-32b550f9-b89a-4aad-a13c-2d5c6832d213.png"> <img width="200" alt="image" src="https://user-images.githubusercontent.com/46766469/186280898-f6fe94e9-7f03-43f2-b8f4-be12afaceac9.png">
 
 
-## Back to the lab, field station or camp
+## Processing in the lab, field station or camp
 
 - Clean roots with tap water and put them in a Petri dish.
 
@@ -38,11 +38,16 @@ Back to [mycology protocols](README.md)
 
   > In DNA buffer, the samples will keep well at room temperature for several days/weeks.
 
+*Cleaning and sorting out roots for DNA in the field:*
+
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/46766469/186320773-aca5d91b-5db2-42f0-a223-0dd561a68382.png">
+
+
 - To preserve roots for staining and anatomical observations you have two options:
 
   - If possible, save >10 root pieces in 95% ethanol in a Falcon tube and store at 5ºC.
   
-    > Room temperature is ok for several days/weeks but *never freeze*!
+    > Room temperature is ok for several days/weeks but *do not freeze*.
   
   - Alternatively, dry root pieces in small envelopes or tea bags with silica gel in a sealed Tupperware, in a dehydrator (below 50°), or even air-drying them in the sun.
 
