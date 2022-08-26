@@ -1,6 +1,6 @@
 # Sampling and preserving mycorrhizal roots
 
-Camille Truong and Guillermo Bueno, August 2022.
+Camille Truong, Guillermo Bueno and Adriana Corrales, August 2022.
 
 This protocol described how to sample plant roots to study their mycorrhizal type, % colonization and root-associated fungi with DNA sequencing.
 
