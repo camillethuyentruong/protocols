@@ -44,6 +44,9 @@ Back to [mycology protocols](README.md)
 
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/46766469/186320773-aca5d91b-5db2-42f0-a223-0dd561a68382.png">
 
+*Terminal root colonized by ectomycorrhizal fungi (ECM root tip):*
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/46766469/187306769-f8d4eed1-a14b-4ed3-9f6d-1d64bc05b180.jpg">
 
 - To preserve roots for staining and anatomical observations you have two options:
 
