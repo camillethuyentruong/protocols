@@ -6,6 +6,8 @@ Interested in collecting and identifying spore mats? Please [reach out](https://
 
 Back to [mycology protocols](README.md)
 
+> Remember that you need permits (or permission from private land owners) for collecting material.
+
 
 ## What are spore mats
 
