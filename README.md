@@ -17,6 +17,9 @@ If you use them for your research, thank you for citing [my publications](https:
 
 ### Data analyses
 
+#### [Illumina metabarcoding with AMPtk and R](https://github.com/bc-anaisabel/juniperus_paper)
+#### [Illumina metabarcoding with Trimmomatic, QIIME and ITSx](https://github.com/camillethuyentruong/Illumina_paired_end)
+
 
 
 This site and it's original source code are copyright © 2022 by [Camille Truong](https://camilletruong.wixsite.com/home).
