@@ -17,7 +17,7 @@ If you use them for your research, thank you for citing [my publications](https:
 
 ### Data analyses
 
-#### [Illumina metabarcoding with AMPtk and R](https://github.com/bc-anaisabel/juniperus_paper)
+#### [Illumina metabarcoding with AMPtk and R](https://github.com/Royal-Botanic-Gardens-Victoria/VicMicrobiome)
 #### [Illumina metabarcoding with Trimmomatic, QIIME and ITSx](https://github.com/camillethuyentruong/Illumina_paired_end)
 
 
