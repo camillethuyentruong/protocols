@@ -34,7 +34,7 @@ Back to [mycology protocols](README.md)
   > Be sure not to add any extra water or liquid (if picking root tips, blot dry the forceps)
 
 - On the day of extraction, smash the material inside the tube using sterile forcepcs.
-- Incubate for 10 min at room temperature, then 10 min at –95ºC.
+- Incubate for 10 min at room temperature, then 10 min at 95ºC.
 - Add an equal voulme of DS to the tube so that the ratio ES:DS is 1:1
 - Store at –20ºC
 
