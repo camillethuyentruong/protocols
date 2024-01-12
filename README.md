@@ -1,8 +1,8 @@
 ### Welcome!
 
-On this site you will find the protocols that we routinely use in my lab to collect and analyze fungal samples such as sporocarps, anamorphs, cultures and environmental samples (soil, roots).
+On this site you will find the protocols that we routinely use in my lab to collect and analyze fungal samples such as sporing bodies, anamorphs, cultures and environmental samples (soil, roots).
 
-If you use them for your research, thank you for citing [my publications](https://www.researchgate.net/profile/Camille-Truong/publications).
+If you use them for your research, thank you for citing [our publications](https://www.researchgate.net/profile/Camille-Truong/publications).
 
 
 ### Field
