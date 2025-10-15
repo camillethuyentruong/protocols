@@ -23,6 +23,5 @@ If you use them for your research, thank you for citing [our publications](https
 
 
 
-This site and it's original source code are copyright © 2022 by [Camille Truong](https://camilletruong.wixsite.com/home).
+This site and it's original source code are copyright © 2022 by [Camille Truong](https://bsky.app/profile/camilletruong.bsky.social).
 
-[<img width="163" alt="image" src="https://user-images.githubusercontent.com/46766469/185002098-bc6b860a-9cbd-4127-92ba-3b76c5547dc6.png">](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECamilleTruong3&region=follow_link&screen_name=CamilleTruong3)
