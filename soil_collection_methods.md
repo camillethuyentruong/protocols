@@ -1,6 +1,9 @@
 
 # Soil collection methods for fungal metabarcoding
 
+By Emily McIntyre and Aviya Naccarella.
+
+
 ## Materials
 - PVC pipes
 - Saw, e.g. tennon saw
@@ -75,3 +78,4 @@ The following provides information on collecting soil samples for DNA metabarcod
 <img width="621" height="500" alt="Fig2" src="https://github.com/user-attachments/assets/b9d2573e-ff4e-46d7-b97c-f40a0fc518e2" />
 
 ##### Figure 2 . Soil sample made of 4 sub-samples (5 cm diameter x 10 cm deep) collected with a soil core.
+
