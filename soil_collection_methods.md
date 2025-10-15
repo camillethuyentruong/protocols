@@ -23,7 +23,6 @@ By Emily McIntyre and Aviya Naccarella.
 - Peg
 - Antiseptic wipes to sterilise spoon/peg in field 
 
-##
 
 ## 1. Making soil cores
 
@@ -40,7 +39,6 @@ These methods provide instructions to create soil cores that will collect a 10 c
 
 ##### Figure 1: How to make soil cores out of PVC pipes.
 
-##
 
 ## 2. Cleaning the soil cores
 
@@ -78,4 +76,5 @@ The following provides information on collecting soil samples for DNA metabarcod
 <img width="621" height="500" alt="Fig2" src="https://github.com/user-attachments/assets/b9d2573e-ff4e-46d7-b97c-f40a0fc518e2" />
 
 ##### Figure 2 . Soil sample made of 4 sub-samples (5 cm diameter x 10 cm deep) collected with a soil core.
+
 
