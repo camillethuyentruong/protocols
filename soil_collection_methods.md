@@ -20,6 +20,7 @@
 - Peg
 - Antiseptic wipes to sterilise spoon/peg in field 
 
+##
 
 ## 1. Making soil cores
 
@@ -31,6 +32,12 @@ These methods provide instructions to create soil cores that will collect a 10 c
 4.	Use sand paper to sand down rough edges at the top, bottom, and drill holes. The smoother this surface is, the less dirt that sticks to it, and the easier it is to clean. 
 5.	Use a sharpie to mark the top 10cm line (see Fig 1). This is useful to see how far the soil core needs to be pushed into the soil.
 
+
+<img width="621" height="378" alt="Fig1" src="https://github.com/user-attachments/assets/03c3e372-a7df-4e8c-b310-39dd92662c51" />
+
+##### Figure 1: How to make soil cores out of PVC pipes.
+
+##
 
 ## 2. Cleaning the soil cores
 
@@ -61,4 +68,10 @@ The following provides information on collecting soil samples for DNA metabarcod
 10.	Rub the bag containing 4 subsamples together to thoroughly mix the soil. 
 11.	Remove ~2 tbsp of soil, using the spoon, and place in little zip lock bag. Refrigerate until freezing as soon as possible.
 12.	Repeat for each of the 7 samples.
-13.	Mix soil from the 7 large bags together in a single bag. Rub bag together to mix soil thoroughly. Empty approx. 300 g into a large paper bag to be used for soil chemistry analysis. Place in tub with lid with a layer of silica gel beads. Keep as dry as possible and heat in oven at 40 degrees until dry as soon as possible. Sieve to 2mm. Store paper bags in tub with silica beads. 
+
+13.	Mix soil from the 7 large bags together in a single bag. Rub bag together to mix soil thoroughly. Empty approx. 300 g into a large paper bag to be used for soil chemistry analysis. Place in tub with lid with a layer of silica gel beads. Keep as dry as possible and heat in oven at 40 degrees until dry as soon as possible. Sieve to 2mm. Store paper bags in tub with silica beads.
+
+
+<img width="621" height="500" alt="Fig2" src="https://github.com/user-attachments/assets/b9d2573e-ff4e-46d7-b97c-f40a0fc518e2" />
+
+##### Figure 2 . Soil sample made of 4 sub-samples (5 cm diameter x 10 cm deep) collected with a soil core.
