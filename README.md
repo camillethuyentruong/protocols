@@ -9,6 +9,7 @@ If you use them for your research, thank you for citing [our publications](https
 
 #### [Mycorrhizal roots](myco_roots.md)
 #### [Spore mats](sporemat.md)
+#### [Soil sampling](soil_collection_methods.md)
 
 ### Lab
 
