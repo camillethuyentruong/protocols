@@ -73,8 +73,9 @@ The following provides information on collecting soil samples for DNA metabarcod
 13.	Mix soil from the 7 large bags together in a single bag. Rub bag together to mix soil thoroughly. Empty approx. 300 g into a large paper bag to be used for soil chemistry analysis. Place in tub with lid with a layer of silica gel beads. Keep as dry as possible and heat in oven at 40 degrees until dry as soon as possible. Sieve to 2mm. Store paper bags in tub with silica beads.
 
 
-<img width="621" height="500" alt="Fig2" src="https://github.com/user-attachments/assets/b9d2573e-ff4e-46d7-b97c-f40a0fc518e2" />
+<img width="621" height="485" alt="Fig2" src="https://github.com/user-attachments/assets/b9d2573e-ff4e-46d7-b97c-f40a0fc518e2" />
 
 ##### Figure 2 . Soil sample made of 4 sub-samples (5 cm diameter x 10 cm deep) collected with a soil core.
+
 
 
